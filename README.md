@@ -41,5 +41,5 @@ The server commands which are handled by the threads might lead to server gettin
 
 
 Architectural Diagram
-
+![](/Client_server.jpg)
 
